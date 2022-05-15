@@ -8,7 +8,77 @@
 - [Feedback & Contribution](#feedback-&-contribution)
 
 ## Function List
+```php
+- MYSQL
+  Create Database MySQL
+  Create User Database MySQL
+  Set Privileges DataBase x User
+  Delete Database MySQL
+  Delete User Database MySQL
+  Set Password User Database MySQL
+  Rename User Database MySQL
+  Check Database MySQL
+  Check Database MySQL
+  DUMP Database MySQL
+- POSTGRESQL
+  Create Database PostgreSQL
+  Create User PostgreSQL
+  Set All Privileges Database x User PostgreSQL
+  Delete Database PostgreSQL
+  Delete User PostgreSQL
+- QUOTA
+  Get Quota Local Cpanel
+  Get Quota Info Cpanel
+- SERVER INFO
+  Clear Spam Box
+  Get Bandwidth Account cPanel
+  Get Errors Log cPanel
+- SUBDOMAIN
+  Create Subdomain 
+- BACKUPS
+  Create Full Backup FTP
+  Create Backup Homedir
+  Restaure Backup Full
 
+- FTP CPANEL
+  Change FTP Quote Account
+  Change Password FTP Account
+  Delete FTP Account
+- EMAIL
+  Create Email Account cPanel
+  Delete Email Account cPanel
+  Set Password Email Account cPanel
+  List Email Account User
+  Add Spam Filter Email Account SCORE: 8.0
+  Add Forwarder Email Account
+  Suspend Account Email
+  Unsuspend Account Email
+  Verify Password Account Email
+  Trace Delivery Email
+  Get Quote Account Email cPanel
+  Get Spam Filter Email cPanel
+- DOMAINS
+  List Domains cPanel User Account
+  List Domains Data cPanel User Account
+  Get Data Domain cPanel User Account
+- TOKEN CPANEL
+  Create New Token
+      TIME: 6 = 6 Hours
+  Revoke Token cPanel
+
+- GET USAGES CPANEL ACCOUNT
+- GET RESELLERS CPANEL ACCOUNT
+- SET LOCALE CPANEL
+- EMPTY TRASH ACCOUNT CPANEL
+- SSL
+  Auto SSL cPanel Account
+  Auto SSL cPanel Account Problems
+  Auto SSL cPanel Account Excludes
+  Auto SSL cPanel Account Remove Excludes
+- GET SIMPLE PASSWORD
+- GET SECURE PASSWORD
+
+```
 
 ### Installation Guide
 
